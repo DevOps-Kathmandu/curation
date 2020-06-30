@@ -26,6 +26,7 @@
 ## Meetups
 
 ## Infographics
+* [The Accelerate State of DevOps Report 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 
 ## Tools
 
