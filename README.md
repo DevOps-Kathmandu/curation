@@ -26,6 +26,7 @@
 ## Meetups
 
 ## Infographics
+* [The CatchPoint SRE Report](https://pages.catchpoint.com/2020-sre-report)
 * [The Accelerate State of DevOps Report 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 
 ## Tools
