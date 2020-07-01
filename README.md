@@ -13,6 +13,8 @@
 * [Building Secure & Reliable Systems](https://landing.google.com/sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf)
 
 ## Blogs
+* [Netflix Tech Blog](https://netflixtechblog.com/)
+* [Launch Darkly](https://launchdarkly.com/blog/)
 
 ## Podcasts
 * [Software Defined Talk](https://www.softwaredefinedtalk.com/)
