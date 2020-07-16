@@ -41,5 +41,11 @@
 ## Interviews
 
 ## Slack Channels
+* [Openfaas](https://openfaas.slack.com/)
+* [Docker Mastery](https://dockermastery.slack.com)
+
+## Discord Servers
+* [Docker](https://discord.gg/VhmRfsj)
+* [Azure Discord Server](https://discord.gg/ucNSsUj)
 
 ## Youtube Channels
