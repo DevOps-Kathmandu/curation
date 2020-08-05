@@ -48,4 +48,8 @@
 * [Docker](https://discord.gg/VhmRfsj)
 * [Azure Discord Server](https://discord.gg/ucNSsUj)
 
-## Youtube Channels
+## Youtube Channels / Videos
+* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day"](https://www.youtube.com/watch?v=LdOe18KhtT4)
+* [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
+* [DevOpsDays Seattle 2017: How to Elevate Your Contributions as an Ops Engineer by Jeffery Smith](https://www.youtube.com/watch?v=YYnXSrykRco)
+
