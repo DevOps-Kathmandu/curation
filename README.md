@@ -19,6 +19,8 @@
 
 - [Netflix Tech Blog](https://netflixtechblog.com/)
 - [Launch Darkly](https://launchdarkly.com/blog/)
+- [Throstene Hans](https://thorsten-hans.com/)
+- [Matthew Palmer](https://matthewpalmer.net/kubernetes-app-developer/articles/)
 
 ## Podcasts
 
@@ -30,6 +32,12 @@
 - [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/)
 
 ## Slides
+
+- [Introduction to Containers](https://container.training/intro-selfpaced.yml.html#1)
+
+## Videos
+
+- [Kubernetes Deconstructed](https://vimeo.com/245778144/4d1d597c5e)
 
 ## Conferences
 
