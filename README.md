@@ -1,5 +1,23 @@
 # Curated List of Awesome DevOps
 
+## Table of Contents  
+- [Roadmap](#roadmap)
+- [Books](#books)
+  * [SRE Books](#sre-books)
+- [Blogs](#blogs)
+- [Podcasts](#podcasts)
+- [Slides](#slides)
+- [Videos](#videos)
+- [Conferences](#conferences)
+- [Meetups](#meetups)
+- [Infographics](#infographics)
+- [Tools](#tools)
+- [Outages and Postmortem Reports](#outages-and-postmortem-reports)
+- [Interviews](#interviews)
+- [Slack Channels](#slack-channels)
+- [Discord Servers](#discord-servers)
+- [Youtube Channels](#youtube-channels)
+
 ## Roadmap
 
 - [RoadMap for DevOps/SRE](https://roadmap.sh/devops)
