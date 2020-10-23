@@ -76,7 +76,7 @@
 
 - [Openfaas](https://openfaas.slack.com/)
 - [Docker Mastery](https://dockermastery.slack.com)
-asd(asd/
+
 ## Discord Servers
 
 - [Docker](https://discord.gg/VhmRfsj)
@@ -85,4 +85,4 @@ asd(asd/
 
 ## YouTube Channels
 
-- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699)
