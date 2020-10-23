@@ -76,7 +76,7 @@
 
 - [Openfaas](https://openfaas.slack.com/)
 - [Docker Mastery](https://dockermastery.slack.com)
-
+asd(asd/
 ## Discord Servers
 
 - [Docker](https://discord.gg/VhmRfsj)
