@@ -80,5 +80,9 @@
 ## Discord Servers
 
 - [Docker](https://discord.gg/VhmRfsj)
+- [Kubernetes/Openshift](https://discord.gg/3F5nvYK)
+- [DevOps, SRE & Infrastructure](https://discord.com/invite/5SJkPb)
 
 ## Youtube Channels
+
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
