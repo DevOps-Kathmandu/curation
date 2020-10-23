@@ -81,7 +81,7 @@
 
 - [Docker](https://discord.gg/VhmRfsj)
 - [Kubernetes/Openshift](https://discord.gg/3F5nvYK)
-- [DevOps, SRE & Infrastructure](https://discord.com/invite/5SJkPb)
+- [DevOps, SRE & Infrastructure](https://discord.com/invite/q49atz)
 
 ## YouTube Channels
 
